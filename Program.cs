@@ -8,8 +8,9 @@ namespace Khalil
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+    void Main(string[] args)
+        { i love me 
+          
         }
     }
 }
